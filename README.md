@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Vimal Vinod, I'm a collage student now. ✨<br>
+Hi, my name is Vimal Vinod, I'm a Collage Student now. ✨<br>
 I am currently working on a Socket Application<br>
 which you can see
 --><a href="https://github.com/Dalekvim/SocketChatApp">here</a><-- 🌱<br>
