@@ -26,5 +26,7 @@ you can contact me on:
 <ul>
   <li><a href="https://www.facebook.com/dalekvim">facebook</a></li>
   <li><a href="https://twitter.com/dalekvim">twitter<a></li>
+  <li><a href="https://www.reddit.com/user/dalekvim">Reddit</a></li>
+  <li><a href="https://www.linkedin.com/in/vimal-vinod-53489b195/">LinkedIn<a></li>
   <li>or on <a href="https://github.com/Dalekvim">github</a>! (I think 🤔)</li>
 </ul>
