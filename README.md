@@ -24,9 +24,9 @@ If you got any questions about anything I've made.<br>
 or if you want to give me some advice,<br>
 you can contact me on:
 <ul>
-  <li><a href="https://www.facebook.com/dalekvim">facebook</a></li>
-  <li><a href="https://twitter.com/dalekvim">twitter<a></li>
+  <li><a href="https://www.facebook.com/dalekvim">Facebook</a></li>
+  <li><a href="https://twitter.com/dalekvim">Twitter<a></li>
   <li><a href="https://www.reddit.com/user/dalekvim">Reddit</a></li>
   <li><a href="https://www.linkedin.com/in/vimal-vinod-53489b195/">LinkedIn<a></li>
-  <li>or on <a href="https://github.com/Dalekvim">github</a>! (I think 🤔)</li>
+  <li>or on <a href="https://github.com/Dalekvim">Github</a>! (I think 🤔)</li>
 </ul>
