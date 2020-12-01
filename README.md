@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Vimal Vinod, I'm a Collage Student now. ✨<br>
-I am currently working on an A Level Revision website<br>
+Hi, my name is Vimal Vinod, I'm a Student at Wigston Collage now. ✨<br>
+I am currently working on a Website for the Robotics Club at our school<br>
 which you can see
---><a href="https://github.com/Dalekvim/ALevelRevisionArchive">here</a><-- 🌱<br>
+--><a href="https://dalekvim.github.io/robotics-website/">here</a><-- 🌱<br>
+
+I am also creating a Graph Colouring Program for my Extended Project Qualification<br>
 
 If you got any questions about anything I've made.<br>
-or if you want to give me some advice,<br>
+or if you want to contribute,<br>
 you can contact me on:
+
 <ul>
   <li><a href="https://www.facebook.com/dalekvim">Facebook</a></li>
   <li><a href="https://twitter.com/dalekvim">Twitter<a></li>
