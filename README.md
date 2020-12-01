@@ -20,7 +20,7 @@ I am currently working on a Website for the Robotics Club at our school<br>
 which you can see
 --><a href="https://dalekvim.github.io/robotics-website/">here</a><-- 🌱<br>
 
-I am also creating a Graph Colouring Program for my Extended Project Qualification<br>
+I am also creating a Graph Colouring Program for my Extended Project Qualification.<br>
 
 If you got any questions about anything I've made.<br>
 or if you want to contribute,<br>
