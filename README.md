@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Vimal Vinod, I'm a Student at Wigston Collage now. ✨<br>
-I am currently working on a Website for the Robotics Club at our school<br>
-which you can see
---><a href="https://dalekvim.github.io/robotics-website/">here</a><-- 🌱<br>
+Hi, my name is Vimal Vinod. I am a student at the University of Warwick.<br>
+I am currently working on an app called Mai Waifu which shows you images of cute female anime/manga/video game characters.
+Have a look at my <a href="https://dalekvim.github.io/mai-waifu/">GitHub Repo</a> if that sounds interesting to you. 🔭<br>
 
 If you got any questions about anything I've made.<br>
 or if you want to contribute,<br>
