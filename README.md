@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Vimal Vinod. I am an undergraduate at the University of Warwick. 🌱<br>
+Hello, my name is Vimal Vinod. I am a Mathematics Undergraduate at the University of Warwick. 🌱<br>
 
-I am currently working on an app called Mai Waifu. It's programmed with React Native and shows you images of cute female anime/manga/video game characters from the Waifu.im API.
-Have a look at my <a href="https://dalekvim.github.io/mai-waifu/">GitHub Repo</a> if that sounds interesting to you. 🔭<br>
+I recently completed an app called Mai Waifu. It's programmed in Kotlin with Jetpack Compose and allows you to click through images of cute female anime/manga/video game characters fetched from the Waifu.im API. The latest version allows you to filter by tags.<br>
+
+Have a look at my <a href="https://dalekvim.github.io/mai-waifu/">GitHub Repo</a> if that sounds interesting to you. 🔭
+The app is available to download on the Google Play Store.
+<br>
 
 Collaborations and ideas are welcome. 👯<br>
 
